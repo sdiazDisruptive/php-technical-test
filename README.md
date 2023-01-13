@@ -20,11 +20,11 @@ For the technical test you only need `home.inc.php` file.
 
 In the `/includes` directory you will find all the components that are used in the site.
 
-# Info file
+### Info file
 
 You will find the `info.php` file inside the `/includes` directory, here are most of the variables that are called for loops or static information of the site.
 
-# Languages
+### Languages
 
 In the `/includes/languages` directory are the files with the strings of all the languages of the site.
 
